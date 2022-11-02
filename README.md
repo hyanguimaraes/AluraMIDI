@@ -6,7 +6,7 @@ Projeto Alura MIDI criado durante o curso JavaScript para Web: Crie páginas din
 | -------------  | --- |
 | :sparkles: Nome        | **Alura MIDI**
 | :label: Tecnologias | HTML, CSS, JavaScript
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://hyanguimaraes.github.io/AluraMIDI/
 | :fire: Formação Programador Iniciante     | https://www.alura.com.br/formacao-programacao
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
