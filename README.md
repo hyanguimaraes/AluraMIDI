@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# Alura MIDI
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto Alura MIDI criado durante o curso JavaScript para Web: Crie páginas dinâmicas da Alura Cursos Online de Tecnologia
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Alura MIDI**
+| :label: Tecnologias | HTML, CSS, JavaScript
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Formação Programador Iniciante     | https://www.alura.com.br/formacao-programacao
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://lh6.googleusercontent.com/r9YcnAh5PNEcAwNGuiHKLDnQV1dkVe_SVVtYTsgRBt6P70xobpXDOBC7l76ukc2LEaQ=w2400#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto de teclado virtual onde o programa executa o som representado pela onomatopéia quando o usuário clica em um botão específico. O projeto já veio com HTML e CSS prontos por parte da Alura, durante o curso desenvolvemos do zero a parte de JavaScript do código.
