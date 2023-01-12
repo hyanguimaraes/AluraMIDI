@@ -1,17 +1,24 @@
-# Alura MIDI
+<h1 align="center"> AluraMIDI </h1>
 
-Projeto Alura MIDI criado durante o curso JavaScript para Web: Crie páginas dinâmicas da Alura Cursos Online de Tecnologia
+![](https://raw.githubusercontent.com/hyanguimaraes/AluraMIDI/main/aluraMIDI.gif#vitrinedev)
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Alura MIDI**
-| :label: Tecnologias | HTML, CSS, JavaScript
-| :rocket: URL         | https://hyanguimaraes.github.io/AluraMIDI/
-| :fire: Formação Programador Iniciante     | https://www.alura.com.br/formacao-programacao
+![](https://img.shields.io/github/forks/hyanguimaraes/aluraMIDI?style=social) ![](https://img.shields.io/github/last-commit/hyanguimaraes/AluraMIDI?style=plastic)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://lh6.googleusercontent.com/r9YcnAh5PNEcAwNGuiHKLDnQV1dkVe_SVVtYTsgRBt6P70xobpXDOBC7l76ukc2LEaQ=w2400#vitrinedev)
+📝 Descrição do projeto
+---
+Projeto de um teclado MIDI, ou seja, um teclado virtual que emite sons de bateria quando a tecla identificada com a onomatopéia é clicada. Este projeto foi realizado durante o curso "JavaScript para Web: Crie páginas dinâmicas" da plataforma Alura Cursos de Tecnologia.
+A Alura forneceu os códigos HTML e CSS. Nosso objetivo era criar a lógica para fazer a página ficar responsiva às ações do usuário, reproduzindo os arquivos de áudio quando o botão fosse clicado. Meu código se encontra no arquivo sketch.js
 
-## Detalhes do projeto
+[🔗 Acesse o projeto](https://hyanguimaraes.github.io/AluraMIDI/)
 
-Projeto de teclado virtual onde o programa executa o som representado pela onomatopéia quando o usuário clica em um botão específico. O projeto já veio com HTML e CSS prontos por parte da Alura, durante o curso desenvolvemos do zero a parte de JavaScript do código.
+[📚 Página do curso "JavaScript para Web: Crie páginas dinâmicas" na plataforma Alura](https://www.alura.com.br/conteudo/javascript-web-paginas-dinamicas)
+
+🛠️ Tecnologias utilizadas
+---
+- ``HTML5``
+- ``CSS3``
+- ``JavaScript``
+
+✍🏻 Autor
+---
+ [<img src="https://avatars.githubusercontent.com/u/112709798?s=400&u=bf197a3880a44c701b3303e07c052a74cb8d96b1&v=4" width=115><br><sub>Hyan Nascimento Guimarães</sub>](https://github.com/hyanguimaraes)
